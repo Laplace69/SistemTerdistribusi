@@ -1,0 +1,8 @@
+com\jesica\nilai\service\NilaiService.class
+com\jesica\nilai\NilaiApplication.class
+com\jesica\nilai\vo\Mahasiswa.class
+com\jesica\nilai\controller\NilaiController.class
+com\jesica\nilai\vo\ResponseTemplate.class
+com\jesica\nilai\vo\Matakuliah.class
+com\jesica\nilai\entity\Nilai.class
+com\jesica\nilai\repository\NilaiRepository.class
